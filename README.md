@@ -1,4 +1,4 @@
-# c1218_safe_harbor
+# Safe Harbor
 
 > An informative app that helps you make safer decisions as you travel
 
